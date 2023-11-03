@@ -1,0 +1,46 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-color: hsl(220,15%,55%);
+    background-color: hsl(220, 15%,55%);
+
+
+}
+
+.card{
+    background-color:hsl(0,0%,100%);
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    border-radius: 10px;
+}
+
+h1{
+    font-size: 24px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+p{
+    font-size: 15px;
+    text-align: center;
+    padding-top: 10px;
+}
+
